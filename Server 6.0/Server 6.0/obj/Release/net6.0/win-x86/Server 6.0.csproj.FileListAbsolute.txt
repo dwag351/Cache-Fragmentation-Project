@@ -1,0 +1,36 @@
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\appsettings.Development.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\appsettings.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.staticwebassets.runtime.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.exe
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.deps.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.runtimeconfig.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Server 6.0.pdb
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.Data.Sqlite.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\SQLitePCLRaw.batteries_v2.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\SQLitePCLRaw.core.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\bin\Release\net6.0\win-x86\e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.AssemblyInfo.cs
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.RazorAssemblyInfo.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.RazorAssemblyInfo.cs
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\scopedcss\bundle\Server 6.0.styles.css
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\scopedcss\projectbundle\Server 6.0.bundle.scp.css
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.csproj.CopyComplete
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\refint\Server 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.pdb
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\Server 6.0.genruntimeconfig.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Server 6.0\Server 6.0\obj\Release\net6.0\win-x86\ref\Server 6.0.dll

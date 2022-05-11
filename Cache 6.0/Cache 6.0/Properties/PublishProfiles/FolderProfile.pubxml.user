@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-10T13:10:35.5069057Z;True|2022-04-09T12:50:07.5124765+12:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="WebAPIConnection">
+      <Value>Data Source=MyDatabase.sqlite</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

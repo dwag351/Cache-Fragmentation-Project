@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="font-family:verdana;font-weight:bold;color:black">Client Portal</h1>
+    <div id="demo2" style="word-wrap:break-word"></div>
+    <div class="component-7-2-0qmmjz" id="component-7-2" style="font-size: 24px; font-family: verdana; font-weight: bold; color: black; padding: 25px; padding-right: 30px; border: 10px solid #000000;">
+        <p>Items to Download</p>
+        <p id="randImage" style="font-size:16px;font-weight:normal;" />
+    </div>
+    <div class="component-7-2-0qmmjz" id="component-7-2" style="font-size: 24px; font-family: verdana; font-weight: bold; color: black; padding: 25px; padding-right: 30px; border: 10px solid #353535;">
+        <p>Downloaded Items</p>
+        <p id="randImage2" style="font-size:16px;font-weight:normal;" />
+    </div>
+    <script>
+
+        function download(element) {
+            document.getElementById(element).remove();
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    var image = new Image();
+                    image.src = 'data:image/png;base64,' + this.responseText;
+                    image.style = "width: auto; height:auto";
+                    let paragraph = document.createElement("p");
+                    paragraph.innerText = element;
+                    document.getElementById("randImage2").appendChild(paragraph);
+                    document.getElementById("randImage2").appendChild(image);
+                }
+            };
+            xhttp.open("GET", "https://localhost:5004/api/DownloadItem/" + element, true);
+            xhttp.send();
+        }
+
+        function base64ToHex(str) {
+            const raw = atob(str);
+            let result = '';
+            for (let i = 0; i < raw.length; i++) {
+                const hex = raw.charCodeAt(i).toString(16);
+                result += (hex.length === 2 ? hex : '0' + hex);
+            }
+            return result.toUpperCase();
+        }
+
+        var typingReady = false;
+        var xhttp = new XMLHttpRequest();
+        var final = '';
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                var ret = this.responseText.split(';').slice(0, -1);
+                ret.forEach(element => document.getElementById("randImage").innerHTML = document.getElementById("randImage").innerHTML + "<button id='" + element.toString() + "' onclick=download('" + element.toString() + "')>Download " + element.toString() + "</button><br><br>");
+                //document.getElementById("randImage").innerHTML = document.getElementById("randImage").innerHTML + ret;
+            }
+        };
+        xhttp.open("GET", "https://localhost:5004/api/GetListItems/", true);
+        xhttp.send();
+
+    </script>
+</div>
+

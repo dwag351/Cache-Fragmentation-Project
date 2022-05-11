@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Server": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001",
+      "urls": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

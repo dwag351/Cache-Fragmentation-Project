@@ -1,0 +1,24 @@
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.AssemblyInfo.cs
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.RazorAssemblyInfo.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.RazorAssemblyInfo.cs
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\appsettings.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.staticwebassets.runtime.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.exe
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.deps.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.runtimeconfig.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\bin\Debug\net6.0\Client 6.0.pdb
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\scopedcss\bundle\Client 6.0.styles.css
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\refint\Client 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.pdb
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\Client 6.0.genruntimeconfig.cache
+C:\Users\David\Desktop\COMPSCI 711 A1\Client 6.0\Client 6.0\obj\Debug\net6.0\ref\Client 6.0.dll

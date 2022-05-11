@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\David\Desktop\COMPSCI 711 A1\Cache\bin\Debug\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-08T18:58:10.6838408Z;True|2022-04-09T06:47:42.4050588+12:00;True|2022-04-09T06:35:35.2929644+12:00;True|2022-04-09T06:32:11.1361617+12:00;True|2022-04-09T06:20:27.6091747+12:00;True|2022-04-09T06:17:07.7149613+12:00;True|2022-04-09T06:15:53.4009649+12:00;True|2022-04-09T06:08:28.0309555+12:00;True|2022-04-09T06:04:54.5289556+12:00;True|2022-04-09T06:02:49.8816076+12:00;True|2022-04-09T05:48:14.9742654+12:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="WebAPIConnection">
+      <Value>Data Source=MyDatabase.sqlite</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

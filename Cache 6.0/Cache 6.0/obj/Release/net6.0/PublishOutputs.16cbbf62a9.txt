@@ -1,0 +1,32 @@
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Cache 6.0.exe
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Cache 6.0.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Cache 6.0.deps.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Cache 6.0.runtimeconfig.json
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Cache 6.0.pdb
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.Sqlite.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\SQLitePCLRaw.batteries_v2.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\SQLitePCLRaw.core.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\David\Desktop\COMPSCI 711 A1\Cache 6.0\Cache 6.0\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\e_sqlite3.dll

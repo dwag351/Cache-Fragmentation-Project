@@ -1,0 +1,38 @@
+<div class="text-center">
+    <h1 class="display-4">Cache</h1>
+    <p id="Log">Cache Log</p>
+    <div id="ServerUpdated"></div>
+    <div id="demo2" style="word-wrap:break-word"></div>
+    <script>
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                document.getElementById("ServerUpdated").innerHTML = this.responseText;
+            }
+        };
+        xhttp.open("GET", "https://localhost:5001/api/UpdateServerContent/", true);
+        xhttp.send();
+
+        function base64ToHex(str) {
+            const raw = atob(str);
+            let result = '';
+            for (let i = 0; i < raw.length; i++) {
+                const hex = raw.charCodeAt(i).toString(16);
+                result += (hex.length === 2 ? hex : '0' + hex);
+            }
+            return result.toUpperCase();
+        }
+
+        var xhttp2 = new XMLHttpRequest();
+        xhttp2.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                //document.getElementById("demo2").innerHTML = base64ToHex(this.responseText);
+                var image = new Image();
+                image.src = 'data:image/png;base64,' + this.responseText;
+                document.body.appendChild(image);
+            }
+        };
+        xhttp2.open("GET", "https://localhost:5001/api/GetItemByteFile/test1", true);
+        xhttp2.send();
+    </script>
+</div>
